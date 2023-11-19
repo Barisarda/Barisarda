@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Barisarda
-- 👀 I’m interested in web and game developmnet
-- 🌱 I’m currently learning html,css,js and also unity
+- 👀 I’m interested game developmnet and cyber security. 
+- 🌱 I’m currently learning c++ and python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
